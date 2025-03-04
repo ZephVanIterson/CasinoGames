@@ -1,3 +1,8 @@
-# INSTRUCTIONS
+# CasinoGames
 
-To clone this, delete `queens_casino.pro` and `queens_casino.pro.user` and make your own. These have hardcoded file names that are specific to my computer. Make a new QT project and add all files that you see.
+Collection of casino games that allow betting of a fake currency.
+
+Games Inlcude:
+- Blackjack
+- Mines
+- Dice
