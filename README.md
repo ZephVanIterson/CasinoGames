@@ -2,7 +2,7 @@
 
 Collection of casino games that allow betting of a fake currency.
 
-Games Inlcude:
+Games Include:
 - Blackjack
 - Mines
 - Dice
